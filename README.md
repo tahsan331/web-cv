@@ -1,1 +1,1 @@
-# web-cv
+Just for learning
